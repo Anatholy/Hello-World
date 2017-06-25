@@ -1,5 +1,5 @@
 (self.AMP = self.AMP || []).push({
-    n: "amp-sidebar",
+    n: "amp-search-form",
     v: "1498157073711",
     f: (function(AMP) {
         function f(a, b) {
